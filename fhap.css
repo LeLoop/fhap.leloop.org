@@ -16,12 +16,15 @@
 
 .title {
     margin-bottom: 25px;
+    text-align: center;
 }
 
 .title img {
-    display: block;
+    display: inline-block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;i
+    width: 150px;
+    height: 150px;
 }
 
 .table {
